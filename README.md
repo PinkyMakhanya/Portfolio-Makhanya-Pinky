@@ -1,2 +1,2 @@
 # Portfolio-Makhanya-Pinky
-Personal portfolio showcasing my skills and projects in frontend development, including HTML, CSS, JavaScript, and responsive design
+A portfolio created to showcase my programming projects and learning journey. Developed using HTML, CSS, and JavaScript, with a focus on clean, organized code and responsive design. This project demonstrates my ability to build functional web applications, organize projects professionally, and present my work effectively. 
